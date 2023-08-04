@@ -1,0 +1,27 @@
+body{ 
+background-image: url(https://th.bing.com/th/id/R.1c0bbc97d4e826668dbd4558aa60ded8?rik=2eOxwVH%2f4zqh2Q&pid=ImgRaw&r=0);
+}
+h1{
+ color: burlywood;
+}
+li{
+    color:burlywood;
+}
+div{
+    color: burlywood;
+
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+ul li{
+    padding: 10px;
+}
